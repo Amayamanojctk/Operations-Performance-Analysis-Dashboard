@@ -32,7 +32,8 @@ Detailed workflow, analysis, and insights:
 `documentation/Operations_Performance_Analysis_Documentation.pdf
 
 👤Author
-Amaya 
+
+Amaya Manoj CTK
 
 
 
