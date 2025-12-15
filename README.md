@@ -6,17 +6,18 @@ This project demonstrates an end-to-end Business Analyst workflow, starting from
 
 The project covers ETL, analysis, visualization, and documentation, making it suitable for real-world BA roles.
 
-2:🔧-Tools & Technologies Used 
+2:-Tools & Technologies Used 
    - Python (Pandas)
    - Microsoft Excel
    - Power BI
-3:📁-Project Contents
+     
+3:-Project Contents
 - Data cleaning & preprocessing using Python
 - Excel summary reports using pivot tables
 - Interactive Power BI dashboard
 - Detailed project documentation (PDF)
 
-4:📊-Power BI Dashboard
+4:-Power BI Dashboard
 Dashboard includes:
 - Total Sales & Total Profit KPIs
 - Sales by Region
@@ -26,7 +27,7 @@ Dashboard includes:
  Dashboard screenshots available in:
  powerbi_dashboard/screenshots`
 
-5:📄-Documentation
+5:-Documentation
 Detailed workflow, analysis, and insights:
 `documentation/Operations_Performance_Analysis_Documentation.pdf
 
